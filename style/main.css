@@ -1,0 +1,33 @@
+body {
+  background-image: url(http://www.allfons.ru/images/201203/allfons.ru_12696.jpg);
+  height: 100vh;
+}
+
+body main {
+  margin: 0 auto;
+  max-width: 1020px;
+  min-width: 320px;
+}
+
+body main .without_font_face {
+  font-family: "OpenSans", monospace, sans-serif;
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: 300;
+  color: burlywood;
+  background-color: black;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+body main .font_face {
+  font-family: "OpenSans", monospace, sans-serif;
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: 700;
+  color: burlywood;
+  background-color: black;
+  padding: 20px;
+  border-radius: 15px;
+}
+/*# sourceMappingURL=main.css.map */
